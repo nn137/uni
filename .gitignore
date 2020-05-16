@@ -3,3 +3,10 @@ _site
 .DS_Store
 .ruby-version
 node_modules
+
+# Folder
+.jekyll-cache
+
+# Files
+Gemfile.lock
+package-lock.json
